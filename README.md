@@ -16,4 +16,4 @@ Originally clone from planetoftheweb/seven
 
 All the files that require pre-processing are inside the `_templates/_process` folder.
 
-More details from this url `https://github.com/11ty/eleventy-base-blog`
+More details from this url [planetoftheweb/seven](https://github.com/11ty/eleventy-base-blog]
